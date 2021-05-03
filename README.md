@@ -1,2 +1,4 @@
 # Games
-Simple Game Collection
+collection games C++
+
+# dev Graphics SFML https://www.sfml-dev.org/
